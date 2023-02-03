@@ -2,8 +2,7 @@
 
 ### A Diet App
 
-`TODO://` 
-Currently
+Currently working on
 1. Improve the UI by using different fonts/colors/background
 2. Research persistence to learn how to store the information so when app reboots the informatoin remains
 3. Add more fields to crease a more thorough introduction
@@ -18,9 +17,7 @@ To be worked on later
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<!-- <img src="https://imgur.com/gallery/hLRRDtA" width=200><br>
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="[https://imgur.com/gallery/hLRRDtA](https://i.imgur.com/4uBNfAz.gif)" width=200><br>
 
 ### Required Features
 
